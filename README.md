@@ -28,3 +28,11 @@ Let me introduce myself ✨
   <a href="https://www.linkedin.com/in/stephaniefayire/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="https://www.instagram.com/teffyhart/"><img src="https://skillicons.dev/icons?i=instagram"></a>
 </div>
+
+<div align="center" style="display: table;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/stephaniefay/stephaniefay/output/github-snake.svg" />
+</picture>
+</div>
