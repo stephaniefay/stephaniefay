@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://github-widgetbox.vercel.app/api/profile?username=stephaniefay&data=followers,repositories,stars,commits&theme=darkmode">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=stephaniefay&data=followers,repositories,stars,commits&theme=dark">
 </div>
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;! </h2>
