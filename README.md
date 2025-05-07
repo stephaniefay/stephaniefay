@@ -7,7 +7,7 @@ Let me introduce myself ✨
 
 - I'm currently a Tech Lead @ IClass Sistemas, working mostly with Java and Angular
 - I'm a Computer Science grad and I'm currently specializing in Software Engineering 💻
-- You'll find lots of projects related to Pokémon TCG, with is a personal hobby of mine
+- You'll find lots of projects related to Pokémon TCG, which is a personal hobby of mine
 - I'm also a bookworm (and aspiring writer 📖)
 - Tech Enthusiast & Gamer
 - I'm a Brazillian 🇧🇷 (but we can talk in english!)
